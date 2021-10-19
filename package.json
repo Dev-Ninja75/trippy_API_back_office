@@ -1,0 +1,14 @@
+{
+  "name": "trippy_api_back_office",
+  "version": "1.0.0",
+  "description": "Trippy basics API backend pratice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofiane ABDEDOU",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
